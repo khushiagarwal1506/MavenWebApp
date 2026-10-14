@@ -1,0 +1,7 @@
+Testing GitHub Webhook Integration
+
+This file is created to verify that a GitHub push automatically triggers the Jenkins pipeline.
+
+Test: GitHub → Webhook → ngrok → Jenkins
+
+Expected result: Jenkins starts a new build after this file is committed.
